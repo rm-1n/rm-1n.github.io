@@ -1,0 +1,20 @@
+{
+  "revision": "1.16",
+  "date": "2026-09-16",
+  "method": "OpenAI built-in image generation",
+  "purpose": "Illustrative generic engineering scenes; not company products or facilities",
+  "briefs": [
+    {
+      "id": "hardware",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium engineering website capability image, landscape 1536x1024. Create one exceptionally sharp editorial photograph of a GENERIC electronic design detail, not a finished product. A cropped area of a blue-green unbranded multilayer PCB with fine copper traces, small black surface-mount ICs, resistors and neat gold test points. Board continues beyond the edges of the frame. No enclosure, no full assembled unit, no proprietary product silhouette, no brand, no chip lettering, no logos, no text. Three-quarter overhead view, controlled cool neutral laboratory light, realistic materials, navy and muted teal palette, edge-to-edge depth of field. Make a visually calm, credible engineering texture, component spacing physically plausible, avoid neon and glow, no cables or hands. Generic illustrative scene, not an actual company's hardware. Keep the central 16:9 crop useful and uncluttered."
+    },
+    {
+      "id": "power",
+      "prompt": "Use case: photorealistic-natural. Asset type: power electronics capability image for an avionics engineering website. Landscape 1536x1024. Create one very crisp professional industrial editorial photograph showing the essential building blocks of power electronics in a clean engineering lab still life: three orderly low-profile black rectangular power semiconductor packages on a small neutral ceramic substrate in the foreground, a precise copper-wound toroidal inductor in the middle, and a restrained brushed aluminum cooling plate behind them. Separate generic components, no complete branded product, no large forest of cylindrical capacitors, no huge silver heatsink dominating the image. Materials and joins physically credible, coherent scale, no floating parts. Cool neutral light, dark navy work surface, realistic copper tones, deep sharp focus across the objects, no neon, no electricity bolts, no glow, no logos, no labels, no text. Visually different from a standard finished circuit board photo, clean and understandable. Leave room around the components for a central 16:9 crop. Illustrative engineering scene, not an actual company product."
+    },
+    {
+      "id": "production",
+      "prompt": "Use case: photorealistic-natural. Asset type: serial electronics production capability photo for an avionics engineering website. Landscape 1536x1024. Create one exceptionally sharp realistic industrial editorial photograph emphasizing SERIAL PRODUCTION, REPEATABILITY and multiple identical units: a clean automated surface-mount electronics production line with two ESD carrier trays each holding a neat grid of eight identical small generic unbranded circuit boards, orderly parallel rows traveling on a metal conveyor toward an automated optical inspection station. The repeating boards must be immediately obvious in the foreground, each with the same physically plausible simple component layout. Wide three-quarter overhead industrial view, enough environment to understand production at scale, no single hero product. High depth of field, crisp machined metal, navy and cool neutral palette, restrained warm status lights, clean credible factory. No people, no invented lettering, no logos, no readable brand or UI, no oversized robot fantasy, no cinematic blur, no neon. Illustrative generic production environment, not the company's factory. Composition must work in a central 16:9 crop."
+    }
+  ]
+}
